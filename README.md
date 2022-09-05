@@ -7,7 +7,7 @@ BACKUPDIR=/root/backup_node/near_${DATE} # Backup directory
 LOGS=/root/.near/logs # Log directory
 
 # restore.sh
-Automatic recovery script for NEAR shardnet validator
+Automatic recovery script for NEAR shardnet validator.
 
 Before use, enter the correct values for the following variables:
 DATADIR=/root/.near # Work DB directory
